@@ -8,7 +8,7 @@ import Spotify from '../../util/Spotify.js';
 class app extends React.Component {
   constructor(props) {
     super(props);
-    this.state. = {
+    this.state = {
     searchResults: [],
     playlistName: 'Our Playlist',
     playlistTracks: []
